@@ -5,7 +5,7 @@ public class Main
     int age;
     
     public void setter(){
-        name="rakshit";
+        name="rahul";
         age=22;
     }
     
